@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "version": "0.1.0",
+      "artifactUrl": "https://github.com/spacelift-io/flows-app-brave-search/releases/download/v0.1.0/bundle.tar.gz",
+      "artifactChecksum": "sha256:aee73fbc3273757dba27869761a2e9c8716e859d852455c961ccd4e7f3db5b46"
+    }
+  ]
+}
